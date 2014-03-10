@@ -1,4 +1,4 @@
-Apache-Status-PHP-Parser
+Apache-Status-PHP-Parser-Thingy
 ========================
 
 Parse the output of apachectl fullstatus to give some good insite into what's going on.
