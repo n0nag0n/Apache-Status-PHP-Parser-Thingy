@@ -1,7 +1,7 @@
 Apache-Status-PHP-Parser-Thingy
 ========================
 
-Parse the output of apachectl fullstatus to give some good insite into what's going on.
+Parse the output of apachectl fullstatus to give some good insight into what's going on.
 
 
 Simply run this script either through command line or though a web browser (add some '<code>&lt;pre&gt;</code>' tags for the browser) and you should have a good set of info to look through.
